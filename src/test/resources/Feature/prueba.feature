@@ -5,7 +5,7 @@
 
 Feature: Verify login session for colorlib page
 
-  @CasoAutenticacion
+  @CasoAutenticacionCorrecta
 
   Scenario:Verify correct entry
     Given I enter with my credentials
